@@ -1,7 +1,7 @@
-### Olá! Eu sou o André Trindade! Suporte Técnico na provedora Visãonet e Desenvolvedor Web.
+### Olá! Eu sou o André Trindade! 😉
                                          
 - 🔭 Atualmente trabalho como suporte técnico em uma provedora de internet.
-- 🌱 Atualmente estou cursando o curso do *programadorbr* para estar me tornando um desenvolvedor web full stack!
+- 🌱 Atualmente estou cursando o curso do *programadorbr* para estar me tornando futuramente um desenvolvedor web full stack!
 -  💼 Estou na procura de uma empresa  acolhedora como colabodor para estar aplicando meus conhecimentos na programação, além de evoluir profissionalmente juntamente com a empresa.
 
 <div align="center">
