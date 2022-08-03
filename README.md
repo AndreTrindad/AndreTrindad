@@ -15,7 +15,7 @@
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"">
   <img align="center" alt="Andre-node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/338224_3pKT2NMl.png"
+  <img align="right" alt="Andre-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/338224_3pKT2NMl.png"
 </div>
 
 ##
