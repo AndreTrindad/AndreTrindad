@@ -2,11 +2,12 @@
                                          
 - 🔭 Atualmente trabalho como suporte técnico em uma provedora de internet.
 - 🌱 Atualmente estou cursando o curso do *programadorbr* para estar me tornando futuramente um desenvolvedor web full stack!
--  💼 Estou na procura de uma empresa  acolhedora como colabodor para estar aplicando meus conhecimentos na programação, além de evoluir profissionalmente juntamente com a empresa.
+- 💼 Estou me ingressando no mundo da tecnologia, virando um programador na area web onde me identifico a cada dia mais! Sendo assim evoluir e contribuir de maneira significativa para a empresa acolhedora como colaborador.
 
 <div align="center">
   <a href="https://github.com/AndreTrindad">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreTrindad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreTrindad&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
