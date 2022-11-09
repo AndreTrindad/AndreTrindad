@@ -1,7 +1,7 @@
 ### Olá! Eu sou o André Trindade! 😉
                                          
 - 🔭 Atualmente trabalho como suporte técnico em uma provedora de internet.
-- 🌱 Atualmente estou cursando o curso do *programadorbr* para estar me tornando futuramente um desenvolvedor web full stack!
+- 🌱 Atualmente estou cursando o curso da *Awari* para estar me tornando futuramente um desenvolvedor front-end!
 - 💼 Estou me ingressando no mundo da tecnologia, virando um programador na area web onde me identifico a cada dia mais! Sendo assim evoluir e contribuir de maneira significativa para a empresa acolhedora como colaborador.
 
 <div align="center">
